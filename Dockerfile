@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-RUN apk --no-cache add coreutils curl bash
+RUN apk --no-cache add coreutils curl bash jq
